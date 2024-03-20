@@ -5,8 +5,8 @@
 - MongoDB Connection String: `mongodb+srv://mail4spamcontrol:GZ6x00vCO2CifJC7@cluster0.xthuov3.mongodb.net`
 
 # Repository URLs
-- React Frontend: ``
-- Node Server: ``
+- React Frontend: `https://github.com/chetanXsaini/dataNeuron-frontend`
+- Node Server: `https://github.com/chetanXsaini/dataNeuron`
 
 # API Endpoints
 
